@@ -13,7 +13,7 @@ A GB-scale text editor for Windows — instant open, millisecond full-file searc
 </div>
 
 
-HiEditor Pro 是一款免费的对标 [EmEditor](https://www.emeditor.com/) 的 Windows 大文件文本编辑器，
+HiEditor Pro 是一款免费的对标 EmEditor 的 Windows 大文件文本编辑器，
 GB 级文件毫秒级打开、全文件搜索秒级完成、编辑操作与文件大小无关——
 单 exe 约 3 MB，无安装、无依赖。
 
