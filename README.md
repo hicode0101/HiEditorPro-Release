@@ -6,9 +6,8 @@
 
 A GB-scale text editor for Windows — instant open, millisecond full-file search, smooth editing.
 
-| 深色模式 | 浅色模式 |
-|---|---|
-| ![深色主题](ScreenShot/HiEditorPro-1.png) | ![浅色主题](ScreenShot/HiEditorPro-2.png) |
+
+![浅色主题](ScreenShot/HiEditorPro-2.png) 
 
 </div>
 
